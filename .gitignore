@@ -6,6 +6,10 @@
 credentials.json
 review_data.csv
 token.pickle
+# Weekly and monthly data series folders
+weekly/
+monthly/
+
 ### JupyterNotebooks ###
 # gitignore template for Jupyter Notebooks
 # website: http://jupyter.org/
